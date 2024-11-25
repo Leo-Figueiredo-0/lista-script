@@ -22,10 +22,10 @@ Este projeto terá as seguintes funcionalidades principais:
 | Etapa                         | Descrição                                                                 | Prazo      |
 |-------------------------------|---------------------------------------------------------------------------|------------|
 | **1. Planejamento e Estrutura**| Definir objetivos, funcionalidades e tecnologias a serem utilizadas.      | 26/11/2024 |
-| **2. Desenvolvimento Inicial** | Criar o script básico para adicionar e listar tarefas.                    | 28/11/2024 |
-| **3. Funcionalidade de Exclusão**| Implementar a função de excluir tarefas.                                  | 30/11/2024 |
-| **4. Testes e Ajustes**        | Testar o script, corrigir erros e melhorar a interação do usuário.        | 02/12/2024 |
-| **5. Documentação e Finalização** | Escrever o README.md e finalizar o projeto.                               | 04/12/2024 |
+| **2. Desenvolvimento Inicial** | Criar o script básico para adicionar e listar tarefas.                    | 26/11/2024 |
+| **3. Funcionalidade de Exclusão**| Implementar a função de excluir tarefas.                                  | 27/11/2024 |
+| **4. Testes e Ajustes**        | Testar o script, corrigir erros e melhorar a interação do usuário.        | 27/11/2024 |
+| **5. Documentação e Finalização** | Terminar o README.md e finalizar o projeto.                               | 30/11/2024 |
 
 ### Observações:
 - As tarefas serão desenvolvidas com base nas funcionalidades descritas acima, e o cronograma poderá ser ajustado conforme necessário.
