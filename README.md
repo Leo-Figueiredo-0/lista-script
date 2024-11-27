@@ -30,5 +30,5 @@ O objetivo deste projeto é criar uma aplicação que ajude o usuário a organiz
 
 1. Clone o repositório para sua máquina local:
 
-      cole isso:
+    ```bash
    git clone https://github.com/Leo-Figueiredo-0/lista-script.git
