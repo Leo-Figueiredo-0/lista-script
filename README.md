@@ -32,3 +32,8 @@ O objetivo deste projeto é criar uma aplicação que ajude o usuário a organiz
 
     ```bash
    git clone https://github.com/Leo-Figueiredo-0/lista-script.git
+   E cole nele; 
+   cd lista-script
+   e depois;
+   python tarefas.py
+
